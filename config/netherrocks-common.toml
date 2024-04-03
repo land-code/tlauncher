@@ -1,0 +1,23 @@
+
+[General]
+	#Add Netherrocks items to chest loot?
+	AddModLootToChests = true
+	#Enable Netherrocks aesthetic blocks?
+	EnableAestheticsBlocks = true
+	#Enable Ashstone to double as ghast tear ore?
+	EnableAshstoneGhastOre = false
+
+["Nether Furnace Fuels"]
+	#Ticks to consume 1 block of netherrack
+	#Range: 1 ~ 10000
+	NetherrackBurnTime = 200
+	#Ticks to consume 1 ingot of fyrite: base for several other burn times
+	#Range: 1 ~ 32000
+	FyriteBurnTime = 8000
+	#Ticks to consume 1 blaze rod; base for certain other burn times
+	#Range: 1 ~ 20000
+	BlazeRodBurnTime = 2400
+	#Ticks to consume 1 fyrite tool
+	#Range: 1 ~ 32000
+	BaseToolBurntime = 3200
+

@@ -1,0 +1,16 @@
+{
+  "clientToken": "27d73d19-e1f4-469c-9cbd-300cc470003e",
+  "accounts": {
+    "ae772c914b6b44e5818c2aec7f63724f": {
+      "username": "Land",
+      "userID": "Land",
+      "displayName": "Land",
+      "uuid": "ae772c914b6b44e5818c2aec7f63724f",
+      "type": "free",
+      "skinType": "tlauncher",
+      "premiumAccount": false
+    }
+  },
+  "selectedAccountUUID": "ae772c914b6b44e5818c2aec7f63724f",
+  "freeAccountUUID": "ae772c914b6b44e5818c2aec7f63724f"
+}

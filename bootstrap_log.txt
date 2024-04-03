@@ -1,0 +1,377 @@
+[Info: 2024-03-26 19:45:09.031979393: NetQueue.cpp(186)] NetQueue: Setting up.
+[Info: 2024-03-26 19:45:09.032124902: NetQueue.cpp(654)] NetQueue: worker thread started.
+[Info: 2024-03-26 19:45:09.032142097: mainLinux.cpp(258)] Running launcher bootstrap (version 1.1.26)
+[Error: 2024-03-26 19:45:09.032375698: Settings.cpp(43)] Failed to determine configuration file size: No such file or directory
+[Info: 2024-03-26 19:45:09.032527859: Common.cpp(32)] Native Launcher Version: 1.1.26
+[Info: 2024-03-26 19:45:09.032534487: Common.cpp(33)] Operating System: Linux
+[Info: 2024-03-26 19:45:09.032537910: Common.cpp(34)] Application Data directory: /.../.minecraft
+[Info: 2024-03-26 19:45:09.032545393: Common.cpp(35)] Executable Path: /.../minecraft-launcher
+[Info: 2024-03-26 19:45:09.032549233: Common.cpp(36)] App Directory dir: /.../bin
+[Info: 2024-03-26 19:45:09.032552514: Common.cpp(37)] Game data directory: /.../.minecraft
+[Info: 2024-03-26 19:45:09.032555659: Common.cpp(38)] Launcher dir: /.../launcher
+[Info: 2024-03-26 19:45:09.032558953: Common.cpp(39)] Java dir: /.../jre-x64
+[Info: 2024-03-26 19:45:09.032562601: Common.cpp(40)] TmpDir dir: /.../MinecraftLauncher.1000
+[Info: 2024-03-26 19:45:09.032566147: Common.cpp(41)] x64: true
+[Info: 2024-03-26 19:45:09.032738875: mainLinux.cpp(339)] resolvedExe: /.../minecraft-launcher selfExe: /.../minecraft-launcher
+[Info: 2024-03-26 19:45:09.032747894: mainLinux.cpp(343)] Top level executable, forwarding signals.
+[Info: 2024-03-26 19:45:09.032838360: Common.cpp(32)] Native Launcher Version: 1.1.26
+[Info: 2024-03-26 19:45:09.032843645: Common.cpp(33)] Operating System: Linux
+[Info: 2024-03-26 19:45:09.032847477: Common.cpp(34)] Application Data directory: /.../.minecraft
+[Info: 2024-03-26 19:45:09.032856092: Common.cpp(35)] Executable Path: /.../minecraft-launcher
+[Info: 2024-03-26 19:45:09.032868207: Common.cpp(36)] App Directory dir: /.../bin
+[Info: 2024-03-26 19:45:09.032875494: Common.cpp(37)] Game data directory: /.../.minecraft
+[Info: 2024-03-26 19:45:09.032880501: Common.cpp(38)] Launcher dir: /.../launcher
+[Info: 2024-03-26 19:45:09.032885631: Common.cpp(39)] Java dir: /.../jre-x64
+[Info: 2024-03-26 19:45:09.032890868: Common.cpp(40)] TmpDir dir: /.../MinecraftLauncher.1000
+[Info: 2024-03-26 19:45:09.032896927: Common.cpp(41)] x64: true
+[Info: 2024-03-26 19:45:09.037837992: mainLinux.cpp(447)] Current executable is not in game directory, update and run game directory version
+[Info: 2024-03-26 19:45:09.037876268: NetQueue.cpp(186)] NetQueue: Setting up.
+[Info: 2024-03-26 19:45:09.038018980: NetQueue.cpp(654)] NetQueue: worker thread started.
+[Info: 2024-03-26 19:45:09.038023980: LauncherConfiguration.cpp(301)] Using update preferences at path: /.../launcher_profiles.json
+[Info: 2024-03-26 19:45:09.038048935: LauncherConfiguration.cpp(315)] Using update preferences at path: /.../launcher_settings.json
+[Info: 2024-03-26 19:45:09.038214558: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/launcher/6f083b80d5e6fabbc4236f81d0d8f8a350c665a9/linux.json
+[Info: 2024-03-26 19:45:10.197646191: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.213.43, Host: launchermeta.mojang.com
+[Info: 2024-03-26 19:45:10.197688578: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/launcher/6f083b80d5e6fabbc4236f81d0d8f8a350c665a9/linux.json
+[Info: 2024-03-26 19:45:10.197698946: NetQueue.cpp(610)] Action finalized: https://piston-meta.mojang.com/v1/products/launcher/6f083b80d5e6fabbc4236f81d0d8f8a350c665a9/linux.json
+[Info: 2024-03-26 19:45:10.197850146: LauncherConfiguration.cpp(260)] Error opening: /.../bootstrap.version, Error message: No such file or directory
+[Info: 2024-03-26 19:45:10.197874849: LauncherConfiguration.cpp(197)] Deciding on update with strategy 0 and clientID 0
+[Info: 2024-03-26 19:45:10.197883463: LauncherConfiguration.cpp(218)] We should change launcher-bootstrap-ado from 1.1.26 to 1.2.30
+[Info: 2024-03-26 19:45:10.197890346: LauncherConfiguration.cpp(232)] launcher-bootstrap-ado update forced
+[Info: 2024-03-26 19:45:10.197898864: LauncherConfiguration.cpp(260)] Error opening: /.../.version, Error message: No such file or directory
+[Info: 2024-03-26 19:45:10.197919125: LauncherConfiguration.cpp(197)] Deciding on update with strategy 0 and clientID 0
+[Info: 2024-03-26 19:45:10.197924693: LauncherConfiguration.cpp(218)] We should change launcher-core-ado from unknown to 2.4.104
+[Info: 2024-03-26 19:45:10.197938644: LauncherConfiguration.cpp(232)] launcher-core-ado update forced
+[Info: 2024-03-26 19:45:10.197952713: mainLinux.cpp(240)] We need to update. Let's do this!
+[Info: 2024-03-26 19:45:10.197960586: mainLinux.cpp(197)] Updating bootstrap and launcher...
+[Info: 2024-03-26 19:45:10.198010023: WindowGTK.cpp(89)] Showing GTK window
+[Info: 2024-03-26 19:45:10.198031151: UpdatePistonComponent.cpp(57)] Piston update in folder /.../launcher will now run. (https://piston-meta.mojang.com/v1/packages/70d6d24a24406dbeb80cda53ac70be6944e2e279/manifest.json to version 1.2.30) (https://piston-meta.mojang.com/v1/packages/0f5faa36de53cc2883b501a7a18e402966930f2b/manifest.json to version 2.4.104)
+[Info: 2024-03-26 19:45:10.198052163: PistonUpdate.cpp(616)] Downloading https://piston-meta.mojang.com/v1/packages/70d6d24a24406dbeb80cda53ac70be6944e2e279/manifest.json
+[Info: 2024-03-26 19:45:10.280713847: WindowGTK.cpp(189)] Created GTK window
+[Info: 2024-03-26 19:45:10.315116840: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/packages/70d6d24a24406dbeb80cda53ac70be6944e2e279/manifest.json
+[Info: 2024-03-26 19:45:10.367128183: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.213.43, Host: piston-meta.mojang.com
+[Info: 2024-03-26 19:45:10.367170177: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/packages/70d6d24a24406dbeb80cda53ac70be6944e2e279/manifest.json
+[Info: 2024-03-26 19:45:10.367188282: NetQueue.cpp(610)] Action finalized: https://piston-meta.mojang.com/v1/packages/70d6d24a24406dbeb80cda53ac70be6944e2e279/manifest.json
+[Info: 2024-03-26 19:45:10.367324504: PistonUpdate.cpp(616)] Downloading https://piston-meta.mojang.com/v1/packages/0f5faa36de53cc2883b501a7a18e402966930f2b/manifest.json
+[Info: 2024-03-26 19:45:10.367476089: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/packages/0f5faa36de53cc2883b501a7a18e402966930f2b/manifest.json
+[Info: 2024-03-26 19:45:10.470297740: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.213.43, Host: piston-meta.mojang.com
+[Info: 2024-03-26 19:45:10.470335035: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/packages/0f5faa36de53cc2883b501a7a18e402966930f2b/manifest.json
+[Info: 2024-03-26 19:45:10.470346937: NetQueue.cpp(610)] Action finalized: https://piston-meta.mojang.com/v1/packages/0f5faa36de53cc2883b501a7a18e402966930f2b/manifest.json
+[Info: 2024-03-26 19:45:10.471749755: PistonUpdate.cpp(692)] Target path: /.../launcher
+[Info: 2024-03-26 19:45:10.472546190: PistonUpdate.cpp(708)] Staging path: /.../PistonStaging
+[Info: 2024-03-26 19:45:10.480876965: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/159f817a7167207f8a53741a1bfc09f5a02219f0/JavaCheck.jar
+[Info: 2024-03-26 19:45:10.480960334: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/d62d6b3ce6dce7f75b29fbcb66233757f7d10738/chrome-sandbox
+[Info: 2024-03-26 19:45:10.480973735: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/46e66dce6f67c2d32ff83d444bf85650dced2da6/chrome_100_percent.pak
+[Info: 2024-03-26 19:45:10.480981071: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/c5a9e8cc869fe14ff7e4aa01a0dfdf5ca2dd1c6b/chrome_200_percent.pak
+[Info: 2024-03-26 19:45:10.480987399: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/0068bd4fd8d27a924cb9ea9269b9769ec0cc5a22/minecraft128.png
+[Info: 2024-03-26 19:45:10.480993814: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/ea9a95768972db73fe815dabcd6a0ed57dcf5f15/minecraft16.png
+[Info: 2024-03-26 19:45:11.088873492: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:11.088896468: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/159f817a7167207f8a53741a1bfc09f5a02219f0/JavaCheck.jar
+[Info: 2024-03-26 19:45:11.088946070: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/159f817a7167207f8a53741a1bfc09f5a02219f0/JavaCheck.jar
+[Info: 2024-03-26 19:45:11.088974241: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:11.088978143: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/0068bd4fd8d27a924cb9ea9269b9769ec0cc5a22/minecraft128.png
+[Info: 2024-03-26 19:45:11.088997437: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/0068bd4fd8d27a924cb9ea9269b9769ec0cc5a22/minecraft128.png
+[Info: 2024-03-26 19:45:11.089010414: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:11.089013746: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/ea9a95768972db73fe815dabcd6a0ed57dcf5f15/minecraft16.png
+[Info: 2024-03-26 19:45:11.089028135: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/ea9a95768972db73fe815dabcd6a0ed57dcf5f15/minecraft16.png
+[Info: 2024-03-26 19:45:11.089038489: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/f6330c961d8b42ab4c402d00912f0c7286efef1d/minecraft256.png
+[Info: 2024-03-26 19:45:11.089051788: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/e90ceca48e9f7645e84487392a6d22e7fb02e40e/minecraft32.png
+[Info: 2024-03-26 19:45:11.089056898: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/3a19692e709b4d33c90b6108cdc781feec053d5c/minecraft48.png
+[Info: 2024-03-26 19:45:11.156908406: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:11.156956740: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/f6330c961d8b42ab4c402d00912f0c7286efef1d/minecraft256.png
+[Info: 2024-03-26 19:45:11.157047124: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/f6330c961d8b42ab4c402d00912f0c7286efef1d/minecraft256.png
+[Info: 2024-03-26 19:45:11.157097415: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:11.157106225: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/e90ceca48e9f7645e84487392a6d22e7fb02e40e/minecraft32.png
+[Info: 2024-03-26 19:45:11.157153931: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/e90ceca48e9f7645e84487392a6d22e7fb02e40e/minecraft32.png
+[Info: 2024-03-26 19:45:11.157183901: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:11.157191748: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/3a19692e709b4d33c90b6108cdc781feec053d5c/minecraft48.png
+[Info: 2024-03-26 19:45:11.157230477: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/3a19692e709b4d33c90b6108cdc781feec053d5c/minecraft48.png
+[Info: 2024-03-26 19:45:11.157271335: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/ddebaca89f8d5827de3aad082939e542683883cc/minecraft64.png
+[Info: 2024-03-26 19:45:11.157299576: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/26f4de553868022e407c4c680b883477197e5bdb/icudtl.dat
+[Info: 2024-03-26 19:45:11.157309769: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/cd42ce1bad36aa552494296144113014d1210074/libEGL.so
+[Info: 2024-03-26 19:45:11.211304169: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:11.211447985: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/ddebaca89f8d5827de3aad082939e542683883cc/minecraft64.png
+[Info: 2024-03-26 19:45:11.211499827: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/ddebaca89f8d5827de3aad082939e542683883cc/minecraft64.png
+[Info: 2024-03-26 19:45:11.211528912: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/7a1bc51809654a4eef358090a486c25ea36e9231/libGLESv2.so
+[Info: 2024-03-26 19:45:12.638181030: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:12.638240693: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/d62d6b3ce6dce7f75b29fbcb66233757f7d10738/chrome-sandbox
+[Info: 2024-03-26 19:45:12.638426598: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/d62d6b3ce6dce7f75b29fbcb66233757f7d10738/chrome-sandbox
+[Info: 2024-03-26 19:45:12.638586794: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/8893258171444311d5dd6bc31fbd0be63ab58290/libcef.so
+[Info: 2024-03-26 19:45:13.493585138: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:13.493627253: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/cd42ce1bad36aa552494296144113014d1210074/libEGL.so
+[Info: 2024-03-26 19:45:13.493806834: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/cd42ce1bad36aa552494296144113014d1210074/libEGL.so
+[Info: 2024-03-26 19:45:13.493844052: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/4bda683f57fbece8229ed76718843204da0fac8b/liblauncher.so
+[Info: 2024-03-26 19:45:15.698605338: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:15.698660521: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/46e66dce6f67c2d32ff83d444bf85650dced2da6/chrome_100_percent.pak
+[Info: 2024-03-26 19:45:15.698915782: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/46e66dce6f67c2d32ff83d444bf85650dced2da6/chrome_100_percent.pak
+[Info: 2024-03-26 19:45:15.698989621: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/4712d5141d759af696f35e781ee578a3e8fe3fc8/libvk_swiftshader.so
+[Info: 2024-03-26 19:45:18.119960326: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:18.119995421: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/c5a9e8cc869fe14ff7e4aa01a0dfdf5ca2dd1c6b/chrome_200_percent.pak
+[Info: 2024-03-26 19:45:18.120209733: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/c5a9e8cc869fe14ff7e4aa01a0dfdf5ca2dd1c6b/chrome_200_percent.pak
+[Info: 2024-03-26 19:45:18.120251824: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/68f8930ea3fd237a31ce4a38b9afae0230bfc6b2/libvulkan.so.1
+[Info: 2024-03-26 19:45:21.894982724: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:21.895009581: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/68f8930ea3fd237a31ce4a38b9afae0230bfc6b2/libvulkan.so.1
+[Info: 2024-03-26 19:45:21.895123513: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/68f8930ea3fd237a31ce4a38b9afae0230bfc6b2/libvulkan.so.1
+[Info: 2024-03-26 19:45:21.895149342: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/5c4cfd3d3d0f74c30b6c303f5cf1aadfaf787a1b/am.pak
+[Info: 2024-03-26 19:45:22.555617078: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:22.555652681: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/5c4cfd3d3d0f74c30b6c303f5cf1aadfaf787a1b/am.pak
+[Info: 2024-03-26 19:45:22.555741401: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/5c4cfd3d3d0f74c30b6c303f5cf1aadfaf787a1b/am.pak
+[Info: 2024-03-26 19:45:22.555773647: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/1e370983dcc34dee57d69b7627fa99d3cee4b8bf/ar.pak
+[Info: 2024-03-26 19:45:23.347664466: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:23.347703262: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/1e370983dcc34dee57d69b7627fa99d3cee4b8bf/ar.pak
+[Info: 2024-03-26 19:45:23.347808160: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/1e370983dcc34dee57d69b7627fa99d3cee4b8bf/ar.pak
+[Info: 2024-03-26 19:45:23.347838398: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/4c0bc8e8edc72540f7be82ee306a2766543646e3/bg.pak
+[Info: 2024-03-26 19:45:23.950885422: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:23.950914816: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/4c0bc8e8edc72540f7be82ee306a2766543646e3/bg.pak
+[Info: 2024-03-26 19:45:23.951013986: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/4c0bc8e8edc72540f7be82ee306a2766543646e3/bg.pak
+[Info: 2024-03-26 19:45:23.951047050: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/5be92a133aea0e271033c2eb89a7124ca96d04c6/bn.pak
+[Info: 2024-03-26 19:45:24.695540784: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:24.695581630: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/5be92a133aea0e271033c2eb89a7124ca96d04c6/bn.pak
+[Info: 2024-03-26 19:45:24.695677253: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/5be92a133aea0e271033c2eb89a7124ca96d04c6/bn.pak
+[Info: 2024-03-26 19:45:24.695708210: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/ecb31c94a88926f1aa57fc6ca8e1388c2cd06d87/ca.pak
+[Info: 2024-03-26 19:45:25.546843103: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:25.546878344: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/ecb31c94a88926f1aa57fc6ca8e1388c2cd06d87/ca.pak
+[Info: 2024-03-26 19:45:25.546977260: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/ecb31c94a88926f1aa57fc6ca8e1388c2cd06d87/ca.pak
+[Info: 2024-03-26 19:45:25.547009004: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/b02fa48a13bd6286da5ce2eb68728ee726746442/cs.pak
+[Info: 2024-03-26 19:45:26.217766144: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:26.217789385: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/b02fa48a13bd6286da5ce2eb68728ee726746442/cs.pak
+[Info: 2024-03-26 19:45:26.217858141: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/b02fa48a13bd6286da5ce2eb68728ee726746442/cs.pak
+[Info: 2024-03-26 19:45:26.217882829: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/407a9fd2d1baf197d44ab2204281f800c5f377ff/da.pak
+[Info: 2024-03-26 19:45:26.687542164: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:26.687582275: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/407a9fd2d1baf197d44ab2204281f800c5f377ff/da.pak
+[Info: 2024-03-26 19:45:26.687665161: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/407a9fd2d1baf197d44ab2204281f800c5f377ff/da.pak
+[Info: 2024-03-26 19:45:26.687703212: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/afea75a3bdae34e1cc0084b5e5fbbe63ebc8b71c/de.pak
+[Info: 2024-03-26 19:45:27.197274445: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:27.197322949: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/afea75a3bdae34e1cc0084b5e5fbbe63ebc8b71c/de.pak
+[Info: 2024-03-26 19:45:27.197436720: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/afea75a3bdae34e1cc0084b5e5fbbe63ebc8b71c/de.pak
+[Info: 2024-03-26 19:45:27.197485894: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/105b4bc2268ba7ec73cb80e6f5bef9bbf2d908fd/el.pak
+[Info: 2024-03-26 19:45:27.867588390: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:27.867633997: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/105b4bc2268ba7ec73cb80e6f5bef9bbf2d908fd/el.pak
+[Info: 2024-03-26 19:45:27.867746073: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/105b4bc2268ba7ec73cb80e6f5bef9bbf2d908fd/el.pak
+[Info: 2024-03-26 19:45:27.867790821: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/ec00ef0e968d4ed0bf9aede0138fd7e9e108acda/en-GB.pak
+[Info: 2024-03-26 19:45:28.357795132: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:28.357837916: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/ec00ef0e968d4ed0bf9aede0138fd7e9e108acda/en-GB.pak
+[Info: 2024-03-26 19:45:28.357942359: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/ec00ef0e968d4ed0bf9aede0138fd7e9e108acda/en-GB.pak
+[Info: 2024-03-26 19:45:28.357990031: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/0a5b93e25e94a445c320f1ec6403c6d8deac8f82/en-US.pak
+[Info: 2024-03-26 19:45:29.021126456: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:29.021176870: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/0a5b93e25e94a445c320f1ec6403c6d8deac8f82/en-US.pak
+[Info: 2024-03-26 19:45:29.021291228: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/0a5b93e25e94a445c320f1ec6403c6d8deac8f82/en-US.pak
+[Info: 2024-03-26 19:45:29.021335373: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/a49c9d94ed02505b223b3f413fde60416a48eed1/es-419.pak
+[Info: 2024-03-26 19:45:29.876974382: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:29.877016484: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/a49c9d94ed02505b223b3f413fde60416a48eed1/es-419.pak
+[Info: 2024-03-26 19:45:29.877135312: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/a49c9d94ed02505b223b3f413fde60416a48eed1/es-419.pak
+[Info: 2024-03-26 19:45:29.877179316: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/0a6bc2f5c2a9072651b0c01a4bc179977d772cfc/es.pak
+[Info: 2024-03-26 19:45:31.113731258: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:31.113791533: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/0a6bc2f5c2a9072651b0c01a4bc179977d772cfc/es.pak
+[Info: 2024-03-26 19:45:31.113911654: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/0a6bc2f5c2a9072651b0c01a4bc179977d772cfc/es.pak
+[Info: 2024-03-26 19:45:31.113958587: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/936bde68915cacc2ca9dd2ddcd6d1b65eb39c7c7/et.pak
+[Info: 2024-03-26 19:45:32.029246561: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:32.029295537: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/936bde68915cacc2ca9dd2ddcd6d1b65eb39c7c7/et.pak
+[Info: 2024-03-26 19:45:32.029378870: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/936bde68915cacc2ca9dd2ddcd6d1b65eb39c7c7/et.pak
+[Info: 2024-03-26 19:45:32.029407808: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/2ecad9dcbbb414f8ce6772b2aa361708ed46bc55/fa.pak
+[Info: 2024-03-26 19:45:32.679014339: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:32.679069220: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/2ecad9dcbbb414f8ce6772b2aa361708ed46bc55/fa.pak
+[Info: 2024-03-26 19:45:32.679186339: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/2ecad9dcbbb414f8ce6772b2aa361708ed46bc55/fa.pak
+[Info: 2024-03-26 19:45:32.679226074: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/426e63854cdbc313a894c77846aac0bf0e910871/fi.pak
+[Info: 2024-03-26 19:45:33.145000815: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:33.145039836: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/426e63854cdbc313a894c77846aac0bf0e910871/fi.pak
+[Info: 2024-03-26 19:45:33.145140362: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/426e63854cdbc313a894c77846aac0bf0e910871/fi.pak
+[Info: 2024-03-26 19:45:33.145176442: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/350f617dfbe38caa2a000ad218424d5c3fd28b5d/fil.pak
+[Info: 2024-03-26 19:45:33.491723886: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:33.491770023: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/350f617dfbe38caa2a000ad218424d5c3fd28b5d/fil.pak
+[Info: 2024-03-26 19:45:33.491865513: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/350f617dfbe38caa2a000ad218424d5c3fd28b5d/fil.pak
+[Info: 2024-03-26 19:45:33.491898282: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/c314b29f763431cb50bfcfb5605ab17295945850/fr.pak
+[Info: 2024-03-26 19:45:33.751829351: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:33.751881332: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/26f4de553868022e407c4c680b883477197e5bdb/icudtl.dat
+[Info: 2024-03-26 19:45:33.752039433: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/26f4de553868022e407c4c680b883477197e5bdb/icudtl.dat
+[Info: 2024-03-26 19:45:33.752082607: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/1148a5995feddd6bb106c99dd470701997f650ab/gu.pak
+[Info: 2024-03-26 19:45:34.570646378: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:34.570683175: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/1148a5995feddd6bb106c99dd470701997f650ab/gu.pak
+[Info: 2024-03-26 19:45:34.570792206: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/1148a5995feddd6bb106c99dd470701997f650ab/gu.pak
+[Info: 2024-03-26 19:45:34.570833986: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/8fe47157f822a8ef6a200a46f656075b6078fb3d/he.pak
+[Info: 2024-03-26 19:45:34.649326578: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:34.649369415: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/c314b29f763431cb50bfcfb5605ab17295945850/fr.pak
+[Info: 2024-03-26 19:45:34.649478930: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/c314b29f763431cb50bfcfb5605ab17295945850/fr.pak
+[Info: 2024-03-26 19:45:34.649533336: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/64193d79bfb96813f72558ff32f71bbd35b0763c/hi.pak
+[Info: 2024-03-26 19:45:35.358722833: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:35.358753552: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/8fe47157f822a8ef6a200a46f656075b6078fb3d/he.pak
+[Info: 2024-03-26 19:45:35.358834827: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/8fe47157f822a8ef6a200a46f656075b6078fb3d/he.pak
+[Info: 2024-03-26 19:45:35.358865247: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/56b20bdc61b0c5e2b44ced10315d6e1353aee9cb/hr.pak
+[Info: 2024-03-26 19:45:35.504637259: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:35.504677031: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/64193d79bfb96813f72558ff32f71bbd35b0763c/hi.pak
+[Info: 2024-03-26 19:45:35.504758337: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/64193d79bfb96813f72558ff32f71bbd35b0763c/hi.pak
+[Info: 2024-03-26 19:45:35.504791459: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/09c5442bbae5fafb4d11e18af054306c7b447aea/hu.pak
+[Info: 2024-03-26 19:45:36.188839862: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:36.188894809: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/09c5442bbae5fafb4d11e18af054306c7b447aea/hu.pak
+[Info: 2024-03-26 19:45:36.189034049: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/09c5442bbae5fafb4d11e18af054306c7b447aea/hu.pak
+[Info: 2024-03-26 19:45:36.189094090: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/4f1c6cff69a0bbd1a509f608f81323b1f1b81acb/id.pak
+[Info: 2024-03-26 19:45:36.551429577: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:36.551456293: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/56b20bdc61b0c5e2b44ced10315d6e1353aee9cb/hr.pak
+[Info: 2024-03-26 19:45:36.551526927: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/56b20bdc61b0c5e2b44ced10315d6e1353aee9cb/hr.pak
+[Info: 2024-03-26 19:45:36.551551968: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/bc21cc648ef42491354671ef35d104de09aafeb6/it.pak
+[Info: 2024-03-26 19:45:36.674164577: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:36.674211928: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/4f1c6cff69a0bbd1a509f608f81323b1f1b81acb/id.pak
+[Info: 2024-03-26 19:45:36.674321915: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/4f1c6cff69a0bbd1a509f608f81323b1f1b81acb/id.pak
+[Info: 2024-03-26 19:45:36.674369839: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/c0bd40cf4479f1de930bdf510ea5e810b2f47d2e/ja.pak
+[Info: 2024-03-26 19:45:37.092626917: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:37.092656411: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/c0bd40cf4479f1de930bdf510ea5e810b2f47d2e/ja.pak
+[Info: 2024-03-26 19:45:37.092733388: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/c0bd40cf4479f1de930bdf510ea5e810b2f47d2e/ja.pak
+[Info: 2024-03-26 19:45:37.092761842: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/1e5dfef7d2ab62879df13892f5ca731cacfd6cbf/kn.pak
+[Info: 2024-03-26 19:45:37.298490390: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:37.298543191: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/bc21cc648ef42491354671ef35d104de09aafeb6/it.pak
+[Info: 2024-03-26 19:45:37.298657802: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/bc21cc648ef42491354671ef35d104de09aafeb6/it.pak
+[Info: 2024-03-26 19:45:37.298699263: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/ce1c4e87016a743099d93931df8abd90326b2adc/ko.pak
+[Info: 2024-03-26 19:45:37.593496085: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:37.593545548: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/1e5dfef7d2ab62879df13892f5ca731cacfd6cbf/kn.pak
+[Info: 2024-03-26 19:45:37.593631341: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/1e5dfef7d2ab62879df13892f5ca731cacfd6cbf/kn.pak
+[Info: 2024-03-26 19:45:37.593661296: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/640d04cdf5e4b758bb6488b4e71c2cc866390f79/lt.pak
+[Info: 2024-03-26 19:45:37.664053802: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:37.664083298: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/ce1c4e87016a743099d93931df8abd90326b2adc/ko.pak
+[Info: 2024-03-26 19:45:37.664155508: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/ce1c4e87016a743099d93931df8abd90326b2adc/ko.pak
+[Info: 2024-03-26 19:45:37.664187595: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/67c22d70e79d327645c614892ae610842cf9f1c5/lv.pak
+[Info: 2024-03-26 19:45:38.085445400: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:38.085488769: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/640d04cdf5e4b758bb6488b4e71c2cc866390f79/lt.pak
+[Info: 2024-03-26 19:45:38.085597098: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/640d04cdf5e4b758bb6488b4e71c2cc866390f79/lt.pak
+[Info: 2024-03-26 19:45:38.085632482: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/5aa2247f4c1f1903a3d376b138d47d76e86c6d3d/ml.pak
+[Info: 2024-03-26 19:45:38.175969823: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:38.176008284: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/67c22d70e79d327645c614892ae610842cf9f1c5/lv.pak
+[Info: 2024-03-26 19:45:38.176093766: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/67c22d70e79d327645c614892ae610842cf9f1c5/lv.pak
+[Info: 2024-03-26 19:45:38.176124449: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/019d42f56d7c41aee4b08f8d852e1c92fd013a0b/mr.pak
+[Info: 2024-03-26 19:45:38.769273437: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:38.769315585: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/019d42f56d7c41aee4b08f8d852e1c92fd013a0b/mr.pak
+[Info: 2024-03-26 19:45:38.769427822: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/019d42f56d7c41aee4b08f8d852e1c92fd013a0b/mr.pak
+[Info: 2024-03-26 19:45:38.769468086: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/5113941188ee29699b37be0d5558349e67c2b983/ms.pak
+[Info: 2024-03-26 19:45:39.346912268: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:39.346938757: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/5113941188ee29699b37be0d5558349e67c2b983/ms.pak
+[Info: 2024-03-26 19:45:39.347023071: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/5113941188ee29699b37be0d5558349e67c2b983/ms.pak
+[Info: 2024-03-26 19:45:39.347058374: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/187984c657c8d20fdd7e48e1874c8fdb8df99692/nb.pak
+[Info: 2024-03-26 19:45:39.370037577: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:39.370074627: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/5aa2247f4c1f1903a3d376b138d47d76e86c6d3d/ml.pak
+[Info: 2024-03-26 19:45:39.370170461: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/5aa2247f4c1f1903a3d376b138d47d76e86c6d3d/ml.pak
+[Info: 2024-03-26 19:45:39.370201564: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/9c8b61f236cd285f53c5c320c7acfd964f609c89/nl.pak
+[Info: 2024-03-26 19:45:39.872625200: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:39.872662431: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/187984c657c8d20fdd7e48e1874c8fdb8df99692/nb.pak
+[Info: 2024-03-26 19:45:39.872755230: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/187984c657c8d20fdd7e48e1874c8fdb8df99692/nb.pak
+[Info: 2024-03-26 19:45:39.872786490: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/e83cb3aa7ed73818f6128a2e20f89c91856fc9de/pl.pak
+[Info: 2024-03-26 19:45:39.936072134: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:39.936103455: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/9c8b61f236cd285f53c5c320c7acfd964f609c89/nl.pak
+[Info: 2024-03-26 19:45:39.936177872: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/9c8b61f236cd285f53c5c320c7acfd964f609c89/nl.pak
+[Info: 2024-03-26 19:45:39.936212555: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/4f8837a554d3ed45110703f5137cc339ba2bbabd/pt-BR.pak
+[Info: 2024-03-26 19:45:40.354737197: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:40.354783757: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/e83cb3aa7ed73818f6128a2e20f89c91856fc9de/pl.pak
+[Info: 2024-03-26 19:45:40.354888539: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/e83cb3aa7ed73818f6128a2e20f89c91856fc9de/pl.pak
+[Info: 2024-03-26 19:45:40.354924457: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/b4a641100ea4779e3c5943dc6e956ee329bdc5bc/pt-PT.pak
+[Info: 2024-03-26 19:45:40.469242516: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:40.469289068: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/4f8837a554d3ed45110703f5137cc339ba2bbabd/pt-BR.pak
+[Info: 2024-03-26 19:45:40.469399276: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/4f8837a554d3ed45110703f5137cc339ba2bbabd/pt-BR.pak
+[Info: 2024-03-26 19:45:40.469441907: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/57553254c10c3b005aff9fbeef48a50242f8c257/ro.pak
+[Info: 2024-03-26 19:45:40.777971503: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:40.778008838: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/b4a641100ea4779e3c5943dc6e956ee329bdc5bc/pt-PT.pak
+[Info: 2024-03-26 19:45:40.778086587: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/b4a641100ea4779e3c5943dc6e956ee329bdc5bc/pt-PT.pak
+[Info: 2024-03-26 19:45:40.778121875: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/41195d75795ea578a5bca5c88ca0abaab7420977/ru.pak
+[Info: 2024-03-26 19:45:40.983547339: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:40.983587021: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/57553254c10c3b005aff9fbeef48a50242f8c257/ro.pak
+[Info: 2024-03-26 19:45:40.983696082: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/57553254c10c3b005aff9fbeef48a50242f8c257/ro.pak
+[Info: 2024-03-26 19:45:40.983732971: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/b8346a67675b71ac10f196148c199febdcf76cf9/sk.pak
+[Info: 2024-03-26 19:45:41.709202750: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:41.709240472: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/b8346a67675b71ac10f196148c199febdcf76cf9/sk.pak
+[Info: 2024-03-26 19:45:41.709337885: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/b8346a67675b71ac10f196148c199febdcf76cf9/sk.pak
+[Info: 2024-03-26 19:45:41.709372619: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/087608c09e5bf66056f8b74f0fcf78eb749f23bd/sl.pak
+[Info: 2024-03-26 19:45:41.864527175: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:41.864560926: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/41195d75795ea578a5bca5c88ca0abaab7420977/ru.pak
+[Info: 2024-03-26 19:45:41.864662461: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/41195d75795ea578a5bca5c88ca0abaab7420977/ru.pak
+[Info: 2024-03-26 19:45:41.864702697: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/4d44c6915b851134db078b17d6a4a2820a12e743/sr.pak
+[Info: 2024-03-26 19:45:42.712366941: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:42.712412086: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/087608c09e5bf66056f8b74f0fcf78eb749f23bd/sl.pak
+[Info: 2024-03-26 19:45:42.712500100: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/087608c09e5bf66056f8b74f0fcf78eb749f23bd/sl.pak
+[Info: 2024-03-26 19:45:42.712532058: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/27748a27db9242ef5552ec8230bc340f1ac627dd/sv.pak
+[Info: 2024-03-26 19:45:43.412955249: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:43.413001335: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/27748a27db9242ef5552ec8230bc340f1ac627dd/sv.pak
+[Info: 2024-03-26 19:45:43.413111863: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/27748a27db9242ef5552ec8230bc340f1ac627dd/sv.pak
+[Info: 2024-03-26 19:45:43.413149771: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/47147eeecd97a70a0dafd1efdf6c1d05cfc67d3b/sw.pak
+[Info: 2024-03-26 19:45:43.480519527: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:43.480566782: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/4d44c6915b851134db078b17d6a4a2820a12e743/sr.pak
+[Info: 2024-03-26 19:45:43.480668325: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/4d44c6915b851134db078b17d6a4a2820a12e743/sr.pak
+[Info: 2024-03-26 19:45:43.480708447: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/7e054493278ccac69c4f4474a9966b707bf77c44/ta.pak
+[Info: 2024-03-26 19:45:44.024914450: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:44.024979800: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/47147eeecd97a70a0dafd1efdf6c1d05cfc67d3b/sw.pak
+[Info: 2024-03-26 19:45:44.025086498: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/47147eeecd97a70a0dafd1efdf6c1d05cfc67d3b/sw.pak
+[Info: 2024-03-26 19:45:44.025132233: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/f2330b0cb9baf3f7ae8caade0dd59516f1977aef/te.pak
+[Info: 2024-03-26 19:45:44.435033717: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:44.435071693: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/f2330b0cb9baf3f7ae8caade0dd59516f1977aef/te.pak
+[Info: 2024-03-26 19:45:44.435286881: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/f2330b0cb9baf3f7ae8caade0dd59516f1977aef/te.pak
+[Info: 2024-03-26 19:45:44.435329595: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/e3799eadc7e524089d6cb7826727fb2a7ee8ab3d/th.pak
+[Info: 2024-03-26 19:45:44.636335751: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:44.636391717: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/7e054493278ccac69c4f4474a9966b707bf77c44/ta.pak
+[Info: 2024-03-26 19:45:44.636622432: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/7e054493278ccac69c4f4474a9966b707bf77c44/ta.pak
+[Info: 2024-03-26 19:45:44.636663175: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/d5cdb5e8eb9f67c671cd36cd5d850de34ec0710c/tr.pak
+[Info: 2024-03-26 19:45:44.826707441: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:44.826740976: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/e3799eadc7e524089d6cb7826727fb2a7ee8ab3d/th.pak
+[Info: 2024-03-26 19:45:44.826815510: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/e3799eadc7e524089d6cb7826727fb2a7ee8ab3d/th.pak
+[Info: 2024-03-26 19:45:44.826840165: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/44f3588463cdffa965dd61802aff73d095b807b2/uk.pak
+[Info: 2024-03-26 19:45:45.419581405: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:45.419641013: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/d5cdb5e8eb9f67c671cd36cd5d850de34ec0710c/tr.pak
+[Info: 2024-03-26 19:45:45.419773537: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/d5cdb5e8eb9f67c671cd36cd5d850de34ec0710c/tr.pak
+[Info: 2024-03-26 19:45:45.419808453: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/49dda60e4fdd42f7d07d6b42e7bc66c890e6b01d/vi.pak
+[Info: 2024-03-26 19:45:45.463856790: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:45.463906925: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/4712d5141d759af696f35e781ee578a3e8fe3fc8/libvk_swiftshader.so
+[Info: 2024-03-26 19:45:45.464320071: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/4712d5141d759af696f35e781ee578a3e8fe3fc8/libvk_swiftshader.so
+[Info: 2024-03-26 19:45:45.464371430: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/d696ba8fe56a9a1a926b0d8f66b6469ed1c66d1d/zh-CN.pak
+[Info: 2024-03-26 19:45:45.651544820: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:45.651611564: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/44f3588463cdffa965dd61802aff73d095b807b2/uk.pak
+[Info: 2024-03-26 19:45:45.651749585: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/44f3588463cdffa965dd61802aff73d095b807b2/uk.pak
+[Info: 2024-03-26 19:45:45.651806249: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/5ee977b17d772f42f210f2724c143433a3bf3577/zh-TW.pak
+[Info: 2024-03-26 19:45:45.810279838: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:45.810328463: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/d696ba8fe56a9a1a926b0d8f66b6469ed1c66d1d/zh-CN.pak
+[Info: 2024-03-26 19:45:45.810403147: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/d696ba8fe56a9a1a926b0d8f66b6469ed1c66d1d/zh-CN.pak
+[Info: 2024-03-26 19:45:45.810430809: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/db7bed6a6bd61b2fc494a176972e92569fbb9992/background.zip
+[Info: 2024-03-26 19:45:45.826017686: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:45.826082895: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/49dda60e4fdd42f7d07d6b42e7bc66c890e6b01d/vi.pak
+[Info: 2024-03-26 19:45:45.826163613: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/49dda60e4fdd42f7d07d6b42e7bc66c890e6b01d/vi.pak
+[Info: 2024-03-26 19:45:45.826194580: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/682d1c46006765ce9791269862564676d0628664/common.zip
+[Info: 2024-03-26 19:45:46.367869877: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:46.367910976: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/5ee977b17d772f42f210f2724c143433a3bf3577/zh-TW.pak
+[Info: 2024-03-26 19:45:46.368009438: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/5ee977b17d772f42f210f2724c143433a3bf3577/zh-TW.pak
+[Info: 2024-03-26 19:45:46.368053346: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/978d174958d6730e4f061bb3bd8f4c368afc48a4/dungeonscarousel.zip
+[Info: 2024-03-26 19:45:47.323068031: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:47.323108676: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/7a1bc51809654a4eef358090a486c25ea36e9231/libGLESv2.so
+[Info: 2024-03-26 19:45:47.323663108: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/7a1bc51809654a4eef358090a486c25ea36e9231/libGLESv2.so
+[Info: 2024-03-26 19:45:47.323715163: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/0fd4885d5b1d3cc834e761dac9ca8b190738da8f/icons.zip
+[Info: 2024-03-26 19:45:47.640796639: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.246.43, Host: piston-data.mojang.com
+[Info: 2024-03-26 19:45:47.640821394: NetQueue.cpp(573)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/0fd4885d5b1d3cc834e761dac9ca8b190738da8f/icons.zip
+[Info: 2024-03-26 19:45:47.640872153: NetQueue.cpp(610)] Action finalized: https://piston-data.mojang.com/v1/objects/0fd4885d5b1d3cc834e761dac9ca8b190738da8f/icons.zip
+[Info: 2024-03-26 19:45:47.640895577: NetQueue.cpp(664)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/997e9ee375c2562d2d77b4d95f5badb971ea1493/images.zip
+[Info: 2024-03-26 19:46:00.463341998: mainLinux.cpp(228)] Window closing, exiting process
+[Info: 2024-03-26 19:46:00.463386212: NetQueue.cpp(212)] NetQueue: Initiating shutdown.
+[Info: 2024-03-26 19:46:00.463397161: NetQueue.cpp(226)] NetQueue: Waiting for worker thread to finish...
+[Info: 2024-03-26 19:46:00.485991166: NetQueue.cpp(786)] NetQueue: Worker thread shutting down.
+[Info: 2024-03-26 19:46:00.486033684: NetQueue.cpp(816)] NetQueue: Aborting (6) in progress requests
+[Error: 2024-03-26 19:46:00.486888530: PistonUpdate.cpp(809)] Download of https://launcher.mojang.com/v1/objects/8893258171444311d5dd6bc31fbd0be63ab58290/libcef.so failed.
+[Error: 2024-03-26 19:46:00.487989022: PistonUpdate.cpp(809)] Download of https://launcher.mojang.com/v1/objects/4bda683f57fbece8229ed76718843204da0fac8b/liblauncher.so failed.
+[Error: 2024-03-26 19:46:00.488908802: PistonUpdate.cpp(809)] Download of https://launcher.mojang.com/v1/objects/db7bed6a6bd61b2fc494a176972e92569fbb9992/background.zip failed.
+[Error: 2024-03-26 19:46:00.489983479: PistonUpdate.cpp(809)] Download of https://launcher.mojang.com/v1/objects/682d1c46006765ce9791269862564676d0628664/common.zip failed.
+[Error: 2024-03-26 19:46:00.490826896: PistonUpdate.cpp(809)] Download of https://launcher.mojang.com/v1/objects/978d174958d6730e4f061bb3bd8f4c368afc48a4/dungeonscarousel.zip failed.
+[Info: 2024-03-26 19:46:00.491863719: NetQueue.cpp(826)] NetQueue: Aborting (0) queued requests
+[Error: 2024-03-26 19:46:00.491884757: PistonUpdate.cpp(809)] Download of https://launcher.mojang.com/v1/objects/997e9ee375c2562d2d77b4d95f5badb971ea1493/images.zip failed.
+[Error: 2024-03-26 19:46:00.491924986: PistonUpdate.cpp(809)] Download of https://launcher.mojang.com/v1/objects/4cffaabfbe6178b2d4f03da3fde49597fcabc372/legendscarosel.zip failed.
+[Error: 2024-03-26 19:46:00.491940724: PistonUpdate.cpp(809)] Download of https://launcher.mojang.com/v1/objects/e82bcad99c65986ecf22d2f16a8c86470e2c5fe5/logos.zip failed.
+[Error: 2024-03-26 19:46:00.491953607: PistonUpdate.cpp(809)] Download of https://launcher.mojang.com/v1/objects/50ac96bf986dc8ce86d6cf04926271bc9561e26d/minecraftlive.zip failed.
+[Error: 2024-03-26 19:46:00.491965207: PistonUpdate.cpp(809)] Download of https://launcher.mojang.com/v1/objects/bde6d35c16035897a2743a007fd4eec110e2c13b/movies.zip failed.
+[Error: 2024-03-26 19:46:00.491977045: PistonUpdate.cpp(809)] Download of https://launcher.mojang.com/v1/objects/d7e8745d0c80d9f0196189e2838299756e54b4f6/onevanilla.zip failed.
+[Error: 2024-03-26 19:46:00.491988413: PistonUpdate.cpp(809)] Download of https://launcher.mojang.com/v1/objects/0c8af396eef95ae179c8c3a1ebc34123b7865d17/piglinreveal.zip failed.
+[Error: 2024-03-26 19:46:00.491999501: PistonUpdate.cpp(809)] Download of https://launcher.mojang.com/v1/objects/787897a328ead96fde5767d9a614ea177de892c4/springscene.zip failed.
+[Error: 2024-03-26 19:46:00.492010784: PistonUpdate.cpp(809)] Download of https://launcher.mojang.com/v1/objects/32bc7d0605ddf02c6eab9ed021da44c56a02a107/upsellcontent.zip failed.
+[Error: 2024-03-26 19:46:00.492021955: PistonUpdate.cpp(809)] Download of https://launcher.mojang.com/v1/objects/0b3c178f8b807fa86ffcea227e070f07f8de30ef/minecraft-launcher failed.
+[Error: 2024-03-26 19:46:00.492033880: PistonUpdate.cpp(809)] Download of https://launcher.mojang.com/v1/objects/d7566bc889a99b326505777838f25f88a4292abb/resources.pak failed.
+[Error: 2024-03-26 19:46:00.492045548: PistonUpdate.cpp(809)] Download of https://launcher.mojang.com/v1/objects/50c3ad8896fc44acd8f1f09538b3cc26acd1b922/snapshot_blob.bin failed.
+[Error: 2024-03-26 19:46:00.492074132: PistonUpdate.cpp(809)] Download of https://launcher.mojang.com/v1/objects/1fa2ee62e68ab8be99cabd454ff25f2a06d68602/libEGL.so failed.
+[Error: 2024-03-26 19:46:00.492088688: PistonUpdate.cpp(809)] Download of https://launcher.mojang.com/v1/objects/8eb9e408f463a9c8f047a7f38c5566346a60b458/libGLESv2.so failed.
+[Error: 2024-03-26 19:46:00.492100734: PistonUpdate.cpp(809)] Download of https://launcher.mojang.com/v1/objects/d6a852fdd2bebcf9edab62c23088921103f283e3/v8_context_snapshot.bin failed.
+[Error: 2024-03-26 19:46:00.492113554: PistonUpdate.cpp(809)] Download of https://launcher.mojang.com/v1/objects/08a83ab661feb866ab881fc7cf0e2b1dc4a5c43d/vk_swiftshader_icd.json failed.
+[Info: 2024-03-26 19:46:00.492812329: NetQueue.cpp(229)] NetQueue: Done.
+[Error: 2024-03-26 19:46:00.492127708: PistonUpdate.cpp(818)] Some downloads failed, update will not proceed.
+[Info: 2024-03-26 19:46:00.493304203: NetQueue.cpp(664)] NetQueue: Starting net action https://sentry.io/api/5254002/store/
+[Error: 2024-03-26 19:46:00.493435114: mainLinux.cpp(208)] Updating bootstrap and launcher failed!
+[Fatal: 2024-03-26 19:46:00.494374916: mainLinux.cpp(244)] Failed to update
+[Info: 2024-03-26 19:46:00.494393841: NetQueue.cpp(212)] NetQueue: Initiating shutdown.
+[Info: 2024-03-26 19:46:00.494401679: NetQueue.cpp(217)] NetQueue: No thread currently running
+[Info: 2024-03-26 19:46:00.494361230: NetQueue.cpp(664)] NetQueue: Starting net action https://sentry.io/api/5254002/store/
